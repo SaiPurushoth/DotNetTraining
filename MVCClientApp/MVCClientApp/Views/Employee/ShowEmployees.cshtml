@@ -1,0 +1,22 @@
+﻿@model List<EmployeeDetail>
+
+
+@{
+}
+
+<table>
+	<tr>
+		<th><p style="margin:8px;">Name</p></th>
+		<th><p style="margin:8px;">Age</p></th>
+		<th><p style="margin:8px;">Phone</p></th>
+	</tr>
+@foreach(var list in Model){
+
+	<tr>
+	    <td>@list.Name</td>
+		<td>@list.Age</td>
+		<td>@list.Phone</td>
+	</tr>
+}
+</table>
+

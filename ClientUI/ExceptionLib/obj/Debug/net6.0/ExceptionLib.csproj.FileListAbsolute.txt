@@ -1,0 +1,15 @@
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\bin\Debug\net6.0\ExceptionLib.deps.json
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\bin\Debug\net6.0\ExceptionLib.dll
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\bin\Debug\net6.0\ExceptionLib.pdb
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\obj\Debug\net6.0\ExceptionLib.csproj.AssemblyReference.cache
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\obj\Debug\net6.0\ExceptionLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\obj\Debug\net6.0\ExceptionLib.AssemblyInfoInputs.cache
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\obj\Debug\net6.0\ExceptionLib.AssemblyInfo.cs
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\obj\Debug\net6.0\ExceptionLib.csproj.CoreCompileInputs.cache
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\obj\Debug\net6.0\ExceptionLib.dll
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\obj\Debug\net6.0\refint\ExceptionLib.dll
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\obj\Debug\net6.0\ExceptionLib.pdb
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\obj\Debug\net6.0\ref\ExceptionLib.dll
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\bin\Debug\net6.0\CustomException.dll
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\bin\Debug\net6.0\CustomException.pdb
+C:\Users\VC\source\repos\ClientUI\ExceptionLib\obj\Debug\net6.0\ExceptionLib.csproj.CopyComplete

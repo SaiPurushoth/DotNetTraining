@@ -1,0 +1,34 @@
+﻿@model  MVCClientApp.Models.EmployeeDetail
+
+<p>Hello Welcome to dashboard</p>
+
+@Html.ActionLink("show employees","ShowEmployees","Employee")
+
+<h2>ADD NEW EMPLOYEE</h2>
+
+@using(Html.BeginForm("SaveEmployees","Employee",FormMethod.Post)){
+
+	     <div >  
+        <div>Name</div>  
+        <div >  
+            @Html.TextBoxFor(model => model.Name)  
+            @Html.ValidationMessage("Name")  
+        </div>  
+     </div> 
+	      <div>  
+        <div >Age</div>  
+        <div >  
+            @Html.TextBoxFor(model => model.Age)  
+        </div>  
+     </div> 
+	      <div >  
+        <div >Phone</div>  
+        <div>  
+            @Html.TextBoxFor(model => model.Phone)  
+        </div>  
+     </div> 
+
+     <div>
+         <button>submit</button>
+     </div>
+}

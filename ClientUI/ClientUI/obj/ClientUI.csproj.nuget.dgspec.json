@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VC\\source\\repos\\ClientUI\\ClientUI\\ClientUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VC\\source\\repos\\ClientUI\\ClientUI\\ClientUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VC\\source\\repos\\ClientUI\\ClientUI\\ClientUI.csproj",
+        "projectName": "ClientUI",
+        "projectPath": "C:\\Users\\VC\\source\\repos\\ClientUI\\ClientUI\\ClientUI.csproj",
+        "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VC\\source\\repos\\ClientUI\\ClientUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\VC\\source\\repos\\ClientUI\\CustomException\\CustomException.csproj": {
+                "projectPath": "C:\\Users\\VC\\source\\repos\\ClientUI\\CustomException\\CustomException.csproj"
+              },
+              "C:\\Users\\VC\\source\\repos\\ClientUI\\ExceptionLib\\ExceptionLib.csproj": {
+                "projectPath": "C:\\Users\\VC\\source\\repos\\ClientUI\\ExceptionLib\\ExceptionLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VC\\source\\repos\\ClientUI\\CustomException\\CustomException.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VC\\source\\repos\\ClientUI\\CustomException\\CustomException.csproj",
+        "projectName": "CustomException",
+        "projectPath": "C:\\Users\\VC\\source\\repos\\ClientUI\\CustomException\\CustomException.csproj",
+        "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VC\\source\\repos\\ClientUI\\CustomException\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VC\\source\\repos\\ClientUI\\ExceptionLib\\ExceptionLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VC\\source\\repos\\ClientUI\\ExceptionLib\\ExceptionLib.csproj",
+        "projectName": "ExceptionLib",
+        "projectPath": "C:\\Users\\VC\\source\\repos\\ClientUI\\ExceptionLib\\ExceptionLib.csproj",
+        "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VC\\source\\repos\\ClientUI\\ExceptionLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\VC\\source\\repos\\ClientUI\\CustomException\\CustomException.csproj": {
+                "projectPath": "C:\\Users\\VC\\source\\repos\\ClientUI\\CustomException\\CustomException.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
