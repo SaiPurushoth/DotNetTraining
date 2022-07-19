@@ -16,6 +16,7 @@ namespace MVCClientApp.Controllers
         public IActionResult ShowEmployees()
         {
             List<EmployeeDetail> employee = display();
+            ViewBag.Employees = employee;
             return View(employee);
         }
 
