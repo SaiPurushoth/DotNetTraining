@@ -29,6 +29,7 @@ namespace Backend_Api.Controllers
                           Json(new {Message = "Entity set 'EmployeesDbContext.Employees'  is null." });
         }
 
+
         // GET: Employees/Details/5
         [Route("details")]
         public async Task<JsonResult> Details(int? id)
@@ -42,6 +43,7 @@ namespace Backend_Api.Controllers
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (employees == null)
             {
+       
                 return Json(new { Message= "Not Found" });
             }
 
